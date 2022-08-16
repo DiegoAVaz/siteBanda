@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.boxMembro{
+    display: flex;
+    border: solid white 1px;
+    padding: 10px;
+}
+
+.fotoMembro{
+    width: 400px;
+    height: 300px;
+}
+
+.fotoMembro img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#sectionMembros{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.boxMembroContent{
+    color: white;
+    padding: 30px;
+}
+
+.boxMembroTitle{
+    padding-bottom: 30px;
+}
