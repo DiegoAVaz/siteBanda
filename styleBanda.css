@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+}
+
+.boxBanda{
+    display: flex;
+    border: solid white 1px;
+    padding: 10px;
+}
+
+.fotoBanda{
+    width: 400px;
+    height: 300px;
+}
+
+.fotoBanda img{
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#sectionBanda{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.boxBandaContent{
+    color: white;
+    padding: 30px;
+}
+
+.boxBandaTitle{
+    padding-bottom: 30px;
+}
