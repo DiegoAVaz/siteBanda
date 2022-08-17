@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+
+#sectionContato{
+    padding: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 300px;
+    border: solid white 1px;
+    padding: 5px;
+    margin: 10px;
+
+}
+
+.contactImg img{
+    width: 80px;
+    margin-right: 20px;
+}

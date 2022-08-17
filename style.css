@@ -18,7 +18,7 @@ section{
     height: 138px;
     border: solid white 1px;
     display: flex;
-    justify-content: center;
+    justify-content: flex-start;
     align-items: center;
     margin: 30px 120px 30px 120px;
     padding-left: 20px;
@@ -35,10 +35,21 @@ section{
     padding-left: 20px;
     font-size: 25px;
     font-weight: bold;
+
+}
+
+.title-content-box a{
+    text-decoration: none;
+    color: white;
 }
 
 .text-content-box{
     padding-left: 20px;
+}
+
+.text-content-box a{
+    text-decoration: none;
+    color: white;
 }
 
 #container{
